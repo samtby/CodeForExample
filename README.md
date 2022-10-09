@@ -1,0 +1,2 @@
+# CodeForExample
+exampel solution algo
